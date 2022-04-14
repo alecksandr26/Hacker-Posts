@@ -26,3 +26,5 @@ And with that you can start the development server, you only need to run this co
 ```
 $ npm start
 ```
+# Todo
+1. Make the webapp responsive
